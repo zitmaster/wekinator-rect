@@ -1,4 +1,4 @@
-# wekinator-rect
+# Wekinator-rect
 
 Koden til projektet ligger inde under sourses, som er inden i SimpleWebcam_100Inputs/lib.
 
